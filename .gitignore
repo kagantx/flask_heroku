@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 /xtest.csv
 /ytest.csv
+.idea/
+venv/
